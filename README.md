@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/paulohgsft)
 
 ### About me
-I'm a Digital Medias and System student's at UFC and studying Unity engine. 
+I'm a Digital Medias and Systems student's at UFC and studying Unity engine. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=paulohgs&show_icons=true&theme=tokyonight)
 
