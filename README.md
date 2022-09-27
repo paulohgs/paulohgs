@@ -11,4 +11,4 @@ I'm a Digital Medias and Systems student's at UFC and studying about iOS Develop
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohgs&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulohgs&repo=dual-app&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulohgs&repo=Lazyless&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
